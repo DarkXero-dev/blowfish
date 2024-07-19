@@ -712,5 +712,15 @@
       "Blog",
       "Technology Blog"
     ]
+  },
+  {
+    "title": "XeroLinux HQ",
+    "url": "https://xerolinux.xyz/",
+    "source": "https://github.com/xerolinux/XeroHub",
+    "tags": [
+      "XeroLinux Projects & Linuux Content",
+      "Linux Dev Blog",
+      "Linux Content Blog"
+    ]
   }
 ]
